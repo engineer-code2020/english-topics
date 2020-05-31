@@ -1,4 +1,8 @@
 
+html
+{
+    font-size: 16px;
+}
 #adv>.adv1
 {
     border: #000 solid 1px;
